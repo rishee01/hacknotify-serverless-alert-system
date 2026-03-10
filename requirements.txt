@@ -1,0 +1,10 @@
+# AWS SDK
+boto3==1.34.131
+botocore==1.34.131
+
+# HTTP handling (future extensions / scraping support)
+requests==2.32.3
+
+boto3
+requests
+beautifulsoup4
